@@ -215,5 +215,5 @@
   "Metaux": ["Or", "Argent", "Fer", "Cuivre", "Plomb"],
   "Nature": ["Riviere", "Lac", "Mer", "Montagne", "Plaine"],
   "Pays": ["Libye", "Soudan", "Kenya", "Mali", "Congo"],
-  "Legumes": ["Asperge", "Artichaut", "Endive", "Panais", "Cresson"],
+  "Legumes": ["Asperge", "Artichaut", "Endive", "Panais", "Cresson"]
 }
