@@ -59,7 +59,6 @@
   "Formes": ["Ligne", "Angle", "Point", "Sphere", "Prisme"],
   "Meteo": ["Brouillard", "Givre", "Grele", "Soleil", "Froid"],
   "Matières": ["Soie", "Cuir", "Plastique", "Acier", "Brique"],
-
   "Fruits": ["Abricot", "Papaye", "Figue", "Kiwi", "Litchi"],
   "Couleurs": ["Violet", "Orange", "Indigo", "Turquoise", "Ocre"],
   "Metiers": ["Boucher", "Tailleur", "Cuisinier", "Acteur", "Plombier"],
